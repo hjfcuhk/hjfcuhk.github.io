@@ -8,11 +8,12 @@ Prof. Junfei Huang joined the Department of Decision Sciences and Managerial Eco
 
 ## Research Interests
 
-Applied Probability, Stochastic Modeling and Optimization, Numerical Methods and Algorithms.
+Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service Management.
 
 <!-- ## Working Papers
 
-- "[A Working Paper](https://rdcu.be/cc2CP)" -->
+- Gao X., J. Huang and J. Zhang. "[Optimal Control of Omnichannel Service Systemswith Delivery Guarantees,](./papers/GaoHuangZhang_2021.pdf)"
+- Gao X. and J. Huang"[Optimal Control of Make-to-Stock Systems](./papers/GaoHuang_2021.pdf)" -->
 [Link to paper](./papers/CaoHeHuangLiu_OR2021.pdf)
 
 ## Publications
