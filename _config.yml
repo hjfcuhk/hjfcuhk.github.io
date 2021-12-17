@@ -1,9 +1,9 @@
 title: <a href="https://www.bschool.cuhk.edu.hk/staff/huang-junfei/">Junfei Huang</a>
 siteName: Junfei Huang | CUHK
 position: Associate Professor
-affiliation: <a href="https://www.bschool.cuhk.edu.hk/departments/decision-sciences-and-managerial-economics/">Department of Decision Sciences and Managerial Economics</a><br><a href="https://www.bschool.cuhk.edu.hk/departments/decision-sciences-and-managerial-economics/">CUHK Business School</a>
+affiliation: Department of Decision Sciences and Managerial Economics<br>CUHK Business School
 email: <a href="mailto:junfeih@cuhk.edu.hk">junfeih@cuhk.edu.hk</a>
-keywords: Junfei Huang's homepage
+keywords: Junfei Huang's Homepage
 google_scholar: #https://scholar.google.com/
 github_link: #https://github.com/
 linkedin: #https://www.linkedin.com/
@@ -11,6 +11,6 @@ avatar: https://www.bschool.cuhk.edu.hk/wp-content/uploads/Huang-Junfei_c.jpg
 google_analytics: #UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: My homepage.
+description: Junfei Huang's Homepage
 canonical: https://hjfcuhk.github.io/
 remote_theme: yaoyao-liu/minimal-light
