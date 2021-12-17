@@ -18,7 +18,7 @@ Applied Probability, Stochastic Modeling and Optimization, Numerical Methods and
 
 - Cao, S. He, J. Huang, and Y. Liu (2021), "[To Pool or Not to Pool: Queueing Design for Large-Scale Service Systems,](https://doi.org/10.1287/opre.2019.1976)" *Operations Research*, Forthcoming.
 - J. Yang, J. Huang, and Y. Liu (2021), “[Mind Your Own Customers and Ignore the Others: Asymptotic Optimality of a Local Policy in Multiclass Queueing Systems with Customer Feedback,]()” *IISE Transactions*, Forthcoming.
-- P. Cao, Z. Zhong, and J. Huang (2021), “[Dynamic Routing in a Distributed Parallel Many-Server Service System: The Effect of $\xi$-Choice,](https://doi.org/10.1016/j.ejor.2021.01.026)” European Journal of Operational Research, 294(1), 219-235.
+- P. Cao, Z. Zhong, and J. Huang (2021), “[Dynamic Routing in a Distributed Parallel Many-Server Service System: The Effect of $\xi$-Choice,](https://doi.org/10.1016/j.ejor.2021.01.026)” *European Journal of Operational Research*, 294(1), 219-235.
 - A. Braverman, I. Gurvich, and J. Huang (2020), “[On the Taylor Expansion of Value Functions,](https://doi.org/10.1287/opre.2019.1903)” *Operations Research*, 68(2), 631-654.
 - J. Huang and I. Gurvich (2018), “[Beyond Heavy-Traffic Regimes: Universal Bounds and Controls for the Single-Server Queue,](https://doi.org/10.1287/opre.2017.1715)” *Operations Research*, 66(4), 1168-1188.
 - J. Huang, A. Mandelbaum, H. Zhang, and J. Zhang (2017), “[Refined Models for Efficiency-Driven Queues with Applications to Delay Announcements and Staffing,](https://doi.org/10.1287/opre.2017.1619)” *Operations Research*, 65(5), 1380-1397.
