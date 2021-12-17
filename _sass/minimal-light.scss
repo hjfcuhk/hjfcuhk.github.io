@@ -7,6 +7,7 @@ body {
   font: 16.0px/1.5 Crimson Pro, serif; 
   color:#595959;
   font-weight:400;
+  text-align:justify;
   margin:0
 }
 
@@ -192,7 +193,7 @@ table {
 }
 
 th, td {
-  text-align:justify;
+  text-align:center;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
 }
