@@ -22,10 +22,10 @@ Applied Probability, Stochastic Modeling and Optimization, Numerical Methods and
 - A. Braverman, I. Gurvich, and J. Huang (2020), “[On the Taylor Expansion of Value Functions,](https://doi.org/10.1287/opre.2019.1903)” *Operations Research*, 68(2), 631-654.
 - J. Huang and I. Gurvich (2018), “[Beyond Heavy-Traffic Regimes: Universal Bounds and Controls for the Single-Server Queue,](https://doi.org/10.1287/opre.2017.1715)” *Operations Research*, 66(4), 1168-1188.
 - J. Huang, A. Mandelbaum, H. Zhang, and J. Zhang (2017), “[Refined Models for Efficiency-Driven Queues with Applications to Delay Announcements and Staffing,](https://doi.org/10.1287/opre.2017.1619)” *Operations Research*, 65(5), 1380-1397.
-- J. Huang, H. Zhang, and J. Zhang (2016), “[A Unified Approach to Diffusion Analysis of Queues with General Patience-Time Distributions,]()” *Mathematics of Operations Research*, 41(3), 1135-1160.
-- J. Huang, B. Carmeli, and A. Mandelbaum (2015), “[Control of Patient Flow in Emergency Departments, or Multiclass Queues with Deadlines and Feedback,]()” *Operations Research*, 63(4), 892-908.
+- J. Huang, H. Zhang, and J. Zhang (2016), “[A Unified Approach to Diffusion Analysis of Queues with General Patience-Time Distributions,](https://doi.org/10.1287/moor.2015.0772)” *Mathematics of Operations Research*, 41(3), 1135-1160.
+- J. Huang, B. Carmeli, and A. Mandelbaum (2015), “[Control of Patient Flow in Emergency Departments, or Multiclass Queues with Deadlines and Feedback,](https://doi.org/10.1287/opre.2015.1389)” *Operations Research*, 63(4), 892-908.
 - I. Gurvich, J. Huang, and A. Mandelbaum (2014), "[Excursion-Based Universal Approximations for the Erlang-A Queue in Steady-State,](https://doi.org/10.1287/moor.2013.0606)" *Mathematics of Operations Research*, 39(2), 325-373.
-- J. Huang and H. Zhang (2013), “[Diffusion Approximation for Open Jackson Network with Reneging,]()” *Queueing Systems*, 74(4), 445-476.
+- J. Huang and H. Zhang (2013), “[Diffusion Approximation for Open Jackson Network with Reneging,](https://link.springer.com/article/10.1007/s11134-012-9335-5)” *Queueing Systems*, 74(4), 445-476.
 
 ## Awards and Grants
 
