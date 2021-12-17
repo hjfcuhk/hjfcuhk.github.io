@@ -15,7 +15,7 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 - Gao X., J. Huang and J. Zhang. "[Optimal Control of Omnichannel Service Systemswith Delivery Guarantees,](./papers/GaoHuangZhang_2021.pdf)"
 - Gao X. and J. Huang"[Optimal Control of Make-to-Stock Systems](./papers/GaoHuang_2021.pdf)" -->
 
-[Link to paper](./papers/CaoHeHuangLiu_OR2021.pdf)
+<!-- [Link to paper](./papers/CaoHeHuangLiu_OR2021.pdf) -->
 
 ## Publications
 
