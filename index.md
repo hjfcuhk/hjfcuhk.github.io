@@ -4,10 +4,7 @@ layout: homepage
 
 ## Biography
 
-I am an associate professor of the Department of Decision Sciences and Managerial Economics at The Chinese University of Hong Kong. 
-My research interests are in asymptotic analysis and optimal control of queuing systems and their applications in services such as healthcare systems (e.g. emergency departments) and tele-services (e.g. telephone call centres). 
-My work has been published in journals such as _Operations Research_ and _Mathematics of Operations Research_. 
-My research awards include the _Uriel G. Rothblum Prize for Excellent Work in Operations Research_ by the Operations Research Society of Israel and the _MSOM Service Management SIG Best Paper Award_.
+Prof. Junfei Huang joined the Department of Decision Sciences and Managerial Economics at The Chinese University of Hong Kong in 2013. His research interests are in asymptotic analysis and optimal control of queuing systems and their applications in services such as healthcare systems (e.g. emergency departments) and tele-services (e.g. telephone call centres). His work has been published in journals such as *Operations Research* and *Mathematics of Operations Research*. His research awards include the Uriel G. Rothblum Prize for Excellent Work in Operations Research by the Operations Research Society of Israel and the MSOM Service Management SIG Best Paper Award.
 ## News
 
 - **[Jan 2021]** Our paper "[A deep learning framework for drug repurposing via emulating clinical trials on real world patient data](https://rdcu.be/cc2CP)" is published on [Nature Machine Intelligence](https://www.nature.com/natmachintell/), which is featured at [OHIO STATE NEWS](https://news.osu.edu/using-artificial-intelligence-to-find-new-uses-for-existing-medications/).
