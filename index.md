@@ -13,11 +13,11 @@ Applied Probability, Stochastic Modeling and Optimization, Numerical Methods and
 <!-- ## Working Papers
 
 - "[A Working Paper](https://rdcu.be/cc2CP)" -->
+[Link to paper](./papers/CaoHeHuangLiu_OR2021.pdf)
 
 ## Publications
 
-- Cao, S. He, J. Huang, and Y. Liu (2021), "[To Pool or Not to Pool: Queueing Design for Large-Scale Service Systems,](./papers/CaoHeHuangLiu_OR2021.pdf)" *Operations Research*, Forthcoming.
-<!-- (https://doi.org/10.1287/opre.2019.1976) -->
+- Cao, S. He, J. Huang, and Y. Liu (2021), "[To Pool or Not to Pool: Queueing Design for Large-Scale Service Systems,](https://doi.org/10.1287/opre.2019.1976)" *Operations Research*, Forthcoming.
 - J. Yang, J. Huang, and Y. Liu (2021), “[Mind Your Own Customers and Ignore the Others: Asymptotic Optimality of a Local Policy in Multiclass Queueing Systems with Customer Feedback,](https://www.tandfonline.com/doi/full/10.1080/24725854.2021.1952358)” *IISE Transactions*, Forthcoming.
 - P. Cao, Z. Zhong, and J. Huang (2021), “[Dynamic Routing in a Distributed Parallel Many-Server Service System: The Effect of $\xi$-Choice,](https://doi.org/10.1016/j.ejor.2021.01.026)” *European Journal of Operational Research*, 294(1), 219-235.
 - A. Braverman, I. Gurvich, and J. Huang (2020), “[On the Taylor Expansion of Value Functions,](https://doi.org/10.1287/opre.2019.1903)” *Operations Research*, 68(2), 631-654.
