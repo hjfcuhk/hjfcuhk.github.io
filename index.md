@@ -14,17 +14,9 @@ Applied Probability, Stochastic Modeling and Optimization, Numerical Methods and
 - "[A Working Paper](https://rdcu.be/cc2CP)" 
 ## Publications
 
-- "[To Pool or Not to Pool: Queueing Design for Large-Scale Service Systems](https://doi.org/10.1287/opre.2019.1976)"
-  <br>
-  P. Cao, S. He, J. Huang, and Y. Liu
-  <br>
-  *Operations Research*, 2021, Forthcoming
+- Cao, S. He, J. Huang, and Y. Liu (2021), "[To Pool or Not to Pool: Queueing Design for Large-Scale Service Systems,](https://doi.org/10.1287/opre.2019.1976)" *Operations Research*, Forthcoming.
 
-- "[Excursion-Based Universal Approximations for the Erlang-A Queue in Steady-State](https://doi.org/10.1287/moor.2013.0606)"
-  <br>
-  I. Gurvich, J. Huang, and A. Mandelbaum
-  <br>
-  *Mathematics of Operations Research* (2014), 39(2), 325-373.
+- I. Gurvich, J. Huang, and A. Mandelbaum (2014), "[Excursion-Based Universal Approximations for the Erlang-A Queue in Steady-State,](https://doi.org/10.1287/moor.2013.0606)" *Mathematics of Operations Research*, 39(2), 325-373.
   <br>
   <strong>
   <i style="color:#e74d3c">**Uriel G. Rothblum Prize for Excellent Work in Operations Research**</i>
