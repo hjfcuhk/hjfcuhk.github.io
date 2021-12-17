@@ -1,7 +1,7 @@
-title: Ruoqi Liu
-position: Ph.D. Student
+title: My Name
+position: <a href="https://github.io/">Associate Professor</a>
 affiliation: The Ohio State University
-email: liu.7324@osu.edu
+email: Email <a href="mailto:my@email.edu">my@email.edu</a>
 keywords: Ruoqi Liu's homepage
 google_scholar: https://scholar.google.com/citations?user=bScV4D0AAAAJ&hl=en
 github_link: https://github.com/ruoqi-liu/
@@ -10,6 +10,6 @@ avatar: ./assets/img/avatar.png
 google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: Ruoqi Liu's homepage.
+description: My homepage.
 canonical: https://ruoqi-liu.github.io/
 remote_theme: yaoyao-liu/minimal-light
