@@ -11,7 +11,8 @@ Prof. Junfei Huang joined the Department of Decision Sciences and Managerial Eco
 Applied Probability, Stochastic Modeling and Optimization, Numerical Methods and Algorithms.
 ## Working Papers
 
-- "[A Working Paper](https://rdcu.be/cc2CP)" 
+- "[A Working Paper](https://rdcu.be/cc2CP)"
+
 ## Publications
 
 - Cao, S. He, J. Huang, and Y. Liu (2021), "[To Pool or Not to Pool: Queueing Design for Large-Scale Service Systems,](https://doi.org/10.1287/opre.2019.1976)" *Operations Research*, Forthcoming.
