@@ -10,7 +10,7 @@ body {
   margin:0
 }
 
-.social-icons a{display:inline-block;height:3rem;width:3rem;background-color:#495057;color:#fff!important;border-radius:100%;text-align:justify;font-size:1.5rem;line-height:3.1rem;margin-right:1rem}.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#000000}
+.social-icons a{display:inline-block;height:3rem;width:3rem;background-color:#495057;color:#fff!important;border-radius:100%;text-align:center;font-size:1.5rem;line-height:3.1rem;margin-right:1rem}.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#000000}
 
 autocolor{
   color:#494949;
@@ -192,7 +192,7 @@ table {
 }
 
 th, td {
-  text-align:left;
+  text-align:justify;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
 }
