@@ -29,7 +29,9 @@ Applied Probability, Stochastic Modeling and Optimization, Numerical Methods and
 
 ## Awards and Grants
 
-- *Young Researcher Award*, The Chinese University of Hong Kong, 2018-19
-- *MSOM Service Management SIG Best Paper Award*, Manufacturing & Service Operations Management, 2018
-- *The Uriel G. Rothblum Prize for Excellent Work in OR for 2014*, Operations Research Society of Israel, 2014
-- 
+- *Young Researcher Award 2018*, The Chinese University of Hong Kong
+- *MSOM Service Management SIG Best Paper Award*, MSOM Society, 2018
+- *The Uriel G. Rothblum Prize for Excellent Work in Operations Research*, Operations Research Society of Israel, 2014
+- 2014 Management Science Meritorious Service Award
+- *General Research Fund (PI)*, Hong Kong Research Grants Council, 2016-2018, 2018-2019, 2020-2022, 2022-2023
+- *Early Career Scheme (PI)*, Hong Kong Research Grants Council, 2015-2017
