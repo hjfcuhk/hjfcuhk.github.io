@@ -1,14 +1,14 @@
-title: My Name
-siteName: MyName | Affiliation
-position: <a href="https://github.io/">Associate Professor</a>
-affiliation: The Ohio State University
-email: <a href="mailto:my@email.edu">my@email.edu</a>
-keywords: Ruoqi Liu's homepage
-google_scholar: https://scholar.google.com/
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-avatar: ./assets/img/avatar.png
-google_analytics: UA-111540567-4
+title: Junfei Huang
+siteName: Junfei Huang | CUHK
+position: <a href="https://www.bschool.cuhk.edu.hk/staff/huang-junfei/">Associate Professor</a>
+affiliation: <a href="https://www.bschool.cuhk.edu.hk/departments/decision-sciences-and-managerial-economics/">Department of Decision Sciences and Managerial Economics</a><br><a href="https://www.bschool.cuhk.edu.hk/departments/decision-sciences-and-managerial-economics/">CUHK Business School</a>
+email: Email <a href="mailto:my@email.edu">my@email.edu</a>
+keywords: Junfei Huang's homepage
+google_scholar: #https://scholar.google.com/
+github_link: #https://github.com/
+linkedin: #https://www.linkedin.com/
+avatar: https://www.bschool.cuhk.edu.hk/wp-content/uploads/Huang-Junfei_c.jpg
+google_analytics: #UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: My homepage.
