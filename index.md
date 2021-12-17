@@ -13,7 +13,7 @@ Prof. Junfei Huang joined the Department of Decision Sciences and Managerial Eco
 - **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" is accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
 
 ## Publications
-- [**A deep learning framework for drug repurposing via emulating clinical trials on real world patient data**]()
+- "[A deep learning framework for drug repurposing via emulating clinical trials on real world patient data]()"
   <br>
   **Ruoqi Liu**, Lai Wei, Ping Zhang
   <br>
