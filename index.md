@@ -18,8 +18,6 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 
 ## Publications
 
-
-
 <!-- - J. Huang, A. Mandelbaum and P. Mom$\check{c}$ilovi$\acute{c}$, [Appointment-Driven QED Queues](./papers/). -->
 - P. Cao, S. He, J. Huang, and Y. Liu (2021), [To Pool or Not to Pool: Queueing Design for Large-Scale Service Systems](https://doi.org/10.1287/opre.2019.1976), *Operations Research*, Forthcoming.
 - J. Yang, J. Huang, and Y. Liu (2021), [Mind Your Own Customers and Ignore the Others: Asymptotic Optimality of a Local Policy in Multiclass Queueing Systems with Customer Feedback](https://www.tandfonline.com/doi/full/10.1080/24725854.2021.1952358), *IISE Transactions*, Forthcoming.
@@ -40,5 +38,3 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 - 2014 Management Science Meritorious Service Award
 - *General Research Fund (PI)*, Hong Kong Research Grants Council, 2016-2018, 2018-2019, 2020-2022, 2022-2023
 - *Early Career Scheme (PI)*, Hong Kong Research Grants Council, 2015-2017
-
-Mom$\check{c}$ilovi$\acute{c}$
