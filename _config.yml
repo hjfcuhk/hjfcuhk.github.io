@@ -14,4 +14,3 @@ favicon_dark: ./assets/img/favicon-dark.png
 description: Junfei Huang's Homepage
 markdown: kramdown
 canonical: https://hjfcuhk.github.io/
-# remote_theme: yaoyao-liu/minimal-light
