@@ -12,7 +12,8 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 
 ## Working Papers
 
-<!-- - Gao X., J. Huang and J. Zhang (2022), [Technical Note -- Optimal Control of Omnichannel Service Systems with Pick-up Guarantees](./papers/GaoHuangZhang_2022.pdf). -->
+- Gao X., J. Huang and J. Zhang (2022), [Technical Note -- Optimal Control of Omnichannel Service Systems with Pick-up Guarantees](./papers/GaoHuang_2021.pdf).
+<!-- - (./papers/GaoHuangZhang_2022.pdf) -->
 - Gao X. and J. Huang (2021), [Optimal Control of Make-to-Stock Systems](./papers/GaoHuang_2021.pdf).
 
 
