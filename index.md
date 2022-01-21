@@ -12,13 +12,13 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 
 ## Working Papers
 
-<!-- - X. Gao, J. Huang and J. Zhang, [Technical Note -- Optimal Control of Omnichannel Service Systems with Pick-up Guarantees](./papers/OmniChannel_HlambdaG.pdf) -->
+<!-- - X. Gao, J. Huang and J. Zhang, [Technical Note -- Optimal Control of Omnichannel Service Systems with Pick-up Guarantees](./papers/Omnichannel_HlambdaG.pdf) -->
 - X. Gao  and J. Huang, [Optimal Control of Make-to-Stock Systems](./papers/BCP.pdf).
 
 
 ## Publications
 
-<!-- - J. Huang, A. Mandelbaum and P. Mom$\check{c}$ilovi$\acute{c}$, [Appointment-Driven QED Queues](./papers/). -->
+<!-- - J. Huang, A. Mandelbaum and P. Mom\v{c}ilovi\'{c}, [Appointment-Driven QED Queues](./papers/). -->
 - P. Cao, S. He, J. Huang, and Y. Liu (2021), [To Pool or Not to Pool: Queueing Design for Large-Scale Service Systems](https://doi.org/10.1287/opre.2019.1976), *Operations Research*, Forthcoming.
 - J. Yang, J. Huang, and Y. Liu (2021), [Mind Your Own Customers and Ignore the Others: Asymptotic Optimality of a Local Policy in Multiclass Queueing Systems with Customer Feedback](https://www.tandfonline.com/doi/full/10.1080/24725854.2021.1952358), *IISE Transactions*, Forthcoming.
 - P. Cao, Z. Zhong, and J. Huang (2021), [Dynamic Routing in a Distributed Parallel Many-Server Service System: The Effect of $\xi$-Choice](https://doi.org/10.1016/j.ejor.2021.01.026), *European Journal of Operational Research*, 294(1), 219-235.
