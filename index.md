@@ -18,9 +18,9 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 
 ## Publications
 
-<!-- - J. Huang, A. Mandelbaum and P. Mom\v{c}ilovi\'{c}, [Appointment-Driven QED Queues](./papers/). -->
-- P. Cao, S. He, J. Huang, and Y. Liu (2021), [To Pool or Not to Pool: Queueing Design for Large-Scale Service Systems](https://doi.org/10.1287/opre.2019.1976), *Operations Research*, Forthcoming.
-- J. Yang, J. Huang, and Y. Liu (2021), [Mind Your Own Customers and Ignore the Others: Asymptotic Optimality of a Local Policy in Multiclass Queueing Systems with Customer Feedback](https://www.tandfonline.com/doi/full/10.1080/24725854.2021.1952358), *IISE Transactions*, Forthcoming.
+- J. Huang, A. Mandelbaum, and P. Mom\v{c}ilovi\'{c} (2022), [Appointment-Driven Service Systems with Many Servers](./papers/), *Queueing Systems*, Forthcoming.
+- J. Yang, J. Huang, and Y. Liu (2022), [Mind Your Own Customers and Ignore the Others: Asymptotic Optimality of a Local Policy in Multiclass Queueing Systems with Customer Feedback](https://www.tandfonline.com/doi/full/10.1080/24725854.2021.1952358), *IISE Transactions*, 54(4), 363-375. [[Appendix](./papers/LocalSupplemental.pdf)]
+- P. Cao, S. He, J. Huang, and Y. Liu (2021), [To Pool or Not to Pool: Queueing Design for Large-Scale Service Systems](https://doi.org/10.1287/opre.2019.1976), *Operations Research*, 69(6), 1866-1885.
 - P. Cao, Z. Zhong, and J. Huang (2021), [Dynamic Routing in a Distributed Parallel Many-Server Service System: The Effect of $\xi$-Choice](https://doi.org/10.1016/j.ejor.2021.01.026), *European Journal of Operational Research*, 294(1), 219-235.
 - A. Braverman, I. Gurvich, and J. Huang (2020), [On the Taylor Expansion of Value Functions](https://doi.org/10.1287/opre.2019.1903), *Operations Research*, 68(2), 631-654.
 - J. Huang and I. Gurvich (2018), [Beyond Heavy-Traffic Regimes: Universal Bounds and Controls for the Single-Server Queue](https://doi.org/10.1287/opre.2017.1715), *Operations Research*, 66(4), 1168-1188.
