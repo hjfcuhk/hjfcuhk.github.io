@@ -38,3 +38,4 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 - 2014 Management Science Meritorious Service Award
 - *General Research Fund (PI)*, Hong Kong Research Grants Council, 2016-2018, 2018-2019, 2020-2022, 2020-2023, 2022-2023
 - *Early Career Scheme (PI)*, Hong Kong Research Grants Council, 2015-2017
+- *Direct Allocation Grant (PI)*, CUHK, 2013-2014, 2015-2016, 2016-2017, 2018-2019, 2018-2020, 2021-2022, 2022-2023
