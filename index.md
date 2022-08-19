@@ -13,7 +13,7 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 ## Working Papers
 
 <!-- - X. Gao, J. Huang and J. Zhang, [Technical Note -- Optimal Control of Omnichannel Service Systems with Pick-up Guarantees](./papers/Omnichannel_HlambdaG.pdf) -->
-- X. Gao  and J. Huang, [Optimal Control of Make-to-Stock Systems](./papers/BCP.pdf).
+- X. Gao  and J. Huang, [Asymptotically Optimal Control of Make-to-Stock Systems](./papers/BCP.pdf).
 
 
 ## Publications
@@ -38,4 +38,4 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 - 2014 Management Science Meritorious Service Award
 - *General Research Fund (PI)*, Hong Kong Research Grants Council, 2016-2018, 2018-2019, 2020-2022, 2020-2023, 2022-2023
 - *Early Career Scheme (PI)*, Hong Kong Research Grants Council, 2015-2017
-- *Direct Allocation Grant (PI)*, CUHK, 2013-2014, 2015-2016, 2016-2017, 2018-2019, 2018-2020, 2021-2022, 2022-2023
+<!-- - *Direct Allocation Grant (PI)*, CUHK, 2013-2014, 2015-2016, 2016-2017, 2018-2019, 2018-2020, 2021-2022, 2022-2023 -->
