@@ -30,12 +30,9 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 - I. Gurvich, J. Huang, and A. Mandelbaum (2014), [Excursion-Based Universal Approximations for the Erlang-A Queue in Steady-State](https://doi.org/10.1287/moor.2013.0606), *Mathematics of Operations Research*, 39(2), 325-373.
 - J. Huang and H. Zhang (2013), [Diffusion Approximation for Open Jackson Network with Reneging](https://link.springer.com/article/10.1007/s11134-012-9335-5), *Queueing Systems*, 74(4), 445-476.
 
-## Awards and Grants
+## Awards \& Honors
 
 - *Young Researcher Award 2018*, The Chinese University of Hong Kong
 - *MSOM Service Management SIG Best Paper Award*, MSOM Society, 2018
 - *The Uriel G. Rothblum Prize for Excellent Work in Operations Research*, Operations Research Society of Israel, 2014
 - 2014 Management Science Meritorious Service Award
-- *General Research Fund (PI)*, Hong Kong Research Grants Council, 2016-2018, 2018-2019, 2020-2022, 2020-2023, 2022-2023
-- *Early Career Scheme (PI)*, Hong Kong Research Grants Council, 2015-2017
-<!-- - *Direct Allocation Grant (PI)*, CUHK, 2013-2014, 2015-2016, 2016-2017, 2018-2019, 2018-2020, 2021-2022, 2022-2023 -->
