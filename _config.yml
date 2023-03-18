@@ -8,7 +8,7 @@ google_scholar: #https://scholar.google.com/
 github_link: #https://github.com/
 linkedin: #https://www.linkedin.com/
 avatar: https://www.bschool.cuhk.edu.hk/wp-content/uploads/Huang-Junfei_c.jpg
-google_analytics: UA-215613427-1 
+google_analytics: 
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: Junfei Huang's Homepage
