@@ -33,7 +33,7 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 
 ## Awards & Honours
 
-- *Excellent Young Scientists Fund (Hong Kong and Macau)*, NSFC, 2022
+- *Excellent Young Scientists Fund (Hong Kong and Macao)*, NSFC, 2022
 - *Young Researcher Award 2018*, The Chinese University of Hong Kong
 - *MSOM Service Management SIG Best Paper Award*, MSOM Society, 2018
 - *The Uriel G. Rothblum Prize for Excellent Work in Operations Research*, Operations Research Society of Israel, 2014
