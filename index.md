@@ -12,7 +12,7 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 
 ## Working Papers
 
-- Z. Zhong, P. Cao, J. Huang and S.X. Zhou, [Capacity Allocation and Scheduling in Two-Stage Service Systems with Multi-Class Customers](./papers/tandemFluid.pdf)
+- Z. Zhong, P. Cao, J. Huang and S.X. Zhou, [Capacity Allocation and Scheduling in Two-Stage Service Systems with Multi-Class Customers](./papers/tandemFluid.pdf).
 
 
 ## Publications
