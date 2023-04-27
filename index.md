@@ -12,13 +12,13 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 
 ## Working Papers
 
-- X. Gao  and J. Huang, [Asymptotically Optimal Control of Make-to-Stock Systems](./papers/BCP.pdf).
+- Z. Zhong, P. Cao, J. Huang and S.X. Zhou, [Capacity Allocation and Scheduling in Two-Stage Service Systems with Multi-Class Customers](./papers/BCP.pdf).
 
 
 ## Publications
 
-<!-- - X. Gao  and J. Huang (2023), [Asymptotically Optimal Control of Make-to-Stock Systems](./papers/BCP.pdf), *Mathematics of Operations Research*, Forthcoming. -->
-<!-- - X. Gao, J. Huang and J. Zhang (2022), [Asymptotically Optimal Control of Omnichannel Service Systems with Pick-up Guarantees](https://doi.org/10.1287/opre.2022.2416), *Operations Research*, Forthcoming.  -->
+- X. Gao  and J. Huang (2023), [Asymptotically Optimal Control of Make-to-Stock Systems](./papers/BCP.pdf), *Mathematics of Operations Research*, Forthcoming.
+- X. Gao, J. Huang and J. Zhang (2022), [Asymptotically Optimal Control of Omnichannel Service Systems with Pick-up Guarantees](https://doi.org/10.1287/opre.2022.2416), *Operations Research*, Forthcoming. 
 - J. Huang, A. Mandelbaum, and P. Mom$\check{c}$ilovi$\acute{c}$ (2022), [Appointment-Driven Service Systems with Many Servers](https://doi.org/10.1007/s11134-022-09782-7), *Queueing Systems*, 100(3-4), 529-531.
 - J. Yang, J. Huang, and Y. Liu (2022), [Mind Your Own Customers and Ignore the Others: Asymptotic Optimality of a Local Policy in Multiclass Queueing Systems with Customer Feedback](https://www.tandfonline.com/doi/full/10.1080/24725854.2021.1952358), *IISE Transactions*, 54(4), 363-375. 
 - P. Cao, S. He, J. Huang, and Y. Liu (2021), [To Pool or Not to Pool: Queueing Design for Large-Scale Service Systems](https://doi.org/10.1287/opre.2019.1976), *Operations Research*, 69(6), 1866-1885.
