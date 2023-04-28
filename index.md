@@ -20,7 +20,7 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 - X. Gao  and J. Huang, [Asymptotically Optimal Control of Make-to-Stock Systems](./papers/BCP.pdf), *Mathematics of Operations Research*, Forthcoming.
 - X. Gao, J. Huang and J. Zhang, [Asymptotically Optimal Control of Omnichannel Service Systems with Pick-up Guarantees](https://doi.org/10.1287/opre.2022.2416), *Operations Research*, Forthcoming. 
 - J. Huang, A. Mandelbaum, and P. Mom$\check{c}$ilovi$\acute{c}$ (2022), [Appointment-Driven Service Systems with Many Servers](https://doi.org/10.1007/s11134-022-09782-7), *Queueing Systems*, 100(3-4), 529-531.
-- J. Yang, J. Huang, and Y. Liu (2022), [Mind Your Own Customers and Ignore the Others: Asymptotic Optimality of a Local Policy in Multiclass Queueing Systems with Customer Feedback](https://www.tandfonline.com/doi/full/10.1080/24725854.2021.1952358), *IISE Transactions*, 54(4), 363-375. [[Appendix](./papers/Local_Appendix.pdf)]
+- J. Yang, J. Huang, and Y. Liu (2022), [Mind Your Own Customers and Ignore the Others: Asymptotic Optimality of a Local Policy in Multiclass Queueing Systems with Customer Feedback](https://www.tandfonline.com/doi/full/10.1080/24725854.2021.1952358), *IISE Transactions*, 54(4), 363-375. [[Appendix](./papers/LocalSupplemental.pdf)]
 - P. Cao, S. He, J. Huang, and Y. Liu (2021), [To Pool or Not to Pool: Queueing Design for Large-Scale Service Systems](https://doi.org/10.1287/opre.2019.1976), *Operations Research*, 69(6), 1866-1885.
 - P. Cao, Z. Zhong, and J. Huang (2021), [Dynamic Routing in a Distributed Parallel Many-Server Service System: The Effect of $\xi$-Choice](https://doi.org/10.1016/j.ejor.2021.01.026), *European Journal of Operational Research*, 294(1), 219-235.
 - A. Braverman, I. Gurvich, and J. Huang (2020), [On the Taylor Expansion of Value Functions](https://doi.org/10.1287/opre.2019.1903), *Operations Research*, 68(2), 631-654.
@@ -28,7 +28,7 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 - J. Huang, A. Mandelbaum, H. Zhang, and J. Zhang (2017), [Refined Models for Efficiency-Driven Queues with Applications to Delay Announcements and Staffing](https://doi.org/10.1287/opre.2017.1619), *Operations Research*, 65(5), 1380-1397.
 - J. Huang, H. Zhang, and J. Zhang (2016), [A Unified Approach to Diffusion Analysis of Queues with General Patience-Time Distributions](https://doi.org/10.1287/moor.2015.0772), *Mathematics of Operations Research*, 41(3), 1135-1160.
 - J. Huang, B. Carmeli, and A. Mandelbaum (2015), [Control of Patient Flow in Emergency Departments, or Multiclass Queues with Deadlines and Feedback](https://doi.org/10.1287/opre.2015.1389), *Operations Research*, 63(4), 892-908.
-- I. Gurvich, J. Huang, and A. Mandelbaum (2014), [Excursion-Based Universal Approximations for the Erlang-A Queue in Steady-State](https://doi.org/10.1287/moor.2013.0606), *Mathematics of Operations Research*, 39(2), 325-373.
+- I. Gurvich, J. Huang, and A. Mandelbaum (2014), [Excursion-Based Universal Approximations for the Erlang-A Queue in Steady-State](https://doi.org/10.1287/moor.2013.0606), *Mathematics of Operations Research*, 39(2), 325-373.hui
 - J. Huang and H. Zhang (2013), [Diffusion Approximation for Open Jackson Network with Reneging](https://link.springer.com/article/10.1007/s11134-012-9335-5), *Queueing Systems*, 74(4), 445-476.
 
 ## Awards & Honours
