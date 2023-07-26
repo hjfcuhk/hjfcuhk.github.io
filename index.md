@@ -30,9 +30,3 @@ Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service 
 - J. Huang, B. Carmeli, and A. Mandelbaum (2015), [Control of Patient Flow in Emergency Departments, or Multiclass Queues with Deadlines and Feedback](https://doi.org/10.1287/opre.2015.1389), *Operations Research*, 63(4), 892-908.
 - I. Gurvich, J. Huang, and A. Mandelbaum (2014), [Excursion-Based Universal Approximations for the Erlang-A Queue in Steady-State](https://doi.org/10.1287/moor.2013.0606), *Mathematics of Operations Research*, 39(2), 325-373.
 - J. Huang and H. Zhang (2013), [Diffusion Approximation for Open Jackson Network with Reneging](https://link.springer.com/article/10.1007/s11134-012-9335-5), *Queueing Systems*, 74(4), 445-476.
-
-## Awards & Honours
-
-- *Young Researcher Award 2018*, The Chinese University of Hong Kong
-- *MSOM Service Management SIG Best Paper Award*, MSOM Society, 2018
-- *The Uriel G. Rothblum Prize for Excellent Work in Operations Research*, Operations Research Society of Israel, 2014
